@@ -1,1 +1,2 @@
 this was made to test fetch by ssh
+I figued out why fetch seemed like it wasn't working becuase i need to --all to see everything not just the branch im on and fetch doesn't change the branch im on
